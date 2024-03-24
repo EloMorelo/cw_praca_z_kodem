@@ -17,8 +17,8 @@ make install
 make flask
 
 w cmd wpisujemy
-curl http://127.0.0.1:5000/
-curl http://127.0.0.1:5000/hello/
+curl http://127.0.0.1:5000/\
+curl http://127.0.0.1:5000/hello/\
 curl http://127.0.0.1:5000/hello/<name>
 -----------------------------------------------------------------------
 3.
