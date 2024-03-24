@@ -1,2 +1,4 @@
-pip install –r requirements.txt
-python –m flask run
+install:
+	pip install –r requirements.txt
+flask:
+	python –m flask run
